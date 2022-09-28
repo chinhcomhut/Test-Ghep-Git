@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("lan 1");
         System.out.println("lan 2");
+        System.out.println("dev lan 3");
     }
 }
