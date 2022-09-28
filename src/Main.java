@@ -5,5 +5,6 @@ public class Main {
         System.out.println("lan 2");
         System.out.println("dev lan 3");
         System.out.printf("chinh lan 4");
+        System.out.println("dev lan 5");
     }
 }
